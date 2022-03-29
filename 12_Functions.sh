@@ -18,3 +18,9 @@ function createFile() {
 
 createUser
 createFile
+
+function addition() {
+    echo "$1 + $2 = " $1+$2
+}
+
+addition 3 4 

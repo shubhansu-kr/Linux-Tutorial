@@ -1,0 +1,20 @@
+total 4
+drwxrwxrwx 1 shido shido 4096 Mar 29 09:56 .
+drwxrwxrwx 1 shido shido 4096 Mar 24 15:49 ..
+-rwxrwxrwx 1 shido shido  346 Mar 24 16:01 00_WhyCLI.sh
+-rwxrwxrwx 1 shido shido  451 Mar 27 20:27 01_WhatIsLinux.sh
+-rwxrwxrwx 1 shido shido  269 Mar 27 20:34 02_LinuxCommands.sh
+-rwxrwxrwx 1 shido shido  794 Mar 28 11:59 03_CommonCommands.sh
+-rwxrwxrwx 1 shido shido  149 Mar 28 22:03 04_Nano.sh
+-rwxrwxrwx 1 shido shido   33 Mar 28 22:19 05_InitialScript.sh
+-rwxrwxrwx 1 shido shido   84 Mar 28 22:25 06_Variable.sh
+-rwxrwxrwx 1 shido shido  218 Mar 28 22:38 07_Parametes.sh
+-rwxrwxrwx 1 shido shido   85 Mar 28 22:42 08_StdIn.sh
+-rwxrwxrwx 1 shido shido  325 Mar 28 22:58 09_UserSignup.sh
+-rwxrwxrwx 1 shido shido  436 Mar 29 09:38 10_ForLoop.sh
+-rwxrwxrwx 1 shido shido  202 Mar 29 09:38 11_Readfiles.sh
+-rwxrwxrwx 1 shido shido  363 Mar 29 09:55 12_Functions.sh
+-rwxrwxrwx 1 shido shido    0 Mar 29 09:56 Dummy.txt
+drwxrwxrwx 1 shido shido 4096 Mar 29 09:53 .git
+-rwxrwxrwx 1 shido shido   12 Mar 24 15:58 .gitignore
+-rwxrwxrwx 1 shido shido   30 Mar 27 20:27 Readme.md
