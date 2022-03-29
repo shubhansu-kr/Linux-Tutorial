@@ -11,6 +11,8 @@ else
 echo "Invalid user " 
 fi 
 
+echo $? 
+# tells if the last command was executed properly 
 
 
 # -s is used to  silent the input 
